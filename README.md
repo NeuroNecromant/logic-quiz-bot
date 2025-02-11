@@ -3,7 +3,7 @@
 
 <strong>Задача:</strong> Разработать Telegram-бота для проведения квизов, который позволяет пользователям отвечать на вопросы и получать результаты. Бот должен вести учет результатов и предоставлять пользователям возможность видеть свои достижения.
 
-<strong><a href="https://github.com/yourusername/quiz-bot" target="_blank">Ссылка на код</a></strong>
+<strong><a href="https://github.com/NeuroNecromant/logic-quiz-bot/tree/main/robot-bobot-main/robot-bobot" target="_blank">Ссылка на код</a></strong>
 
 <strong>Что сделано:</strong>
 
